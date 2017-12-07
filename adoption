@@ -1,0 +1,36 @@
+
+<html>
+
+	  <head>
+
+			<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+</style>
+<title>Adopt a Pet</title>
+	 </head>
+
+	  <body>
+
+      <font size="25"><center>Adopt A Pet </h1>
+        <img src="http://wesleying.org/wp-content/uploads/2015/11/cute-dogs-01.jpg" width=200 height=100>
+
+				<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#dogs">Dogs</a></li>
+  <li><a href="#cats">Cats</a></li>
+  <li><a href="#hamsters">Hamsters</a></li>
+</ul>
+
+	  </body>
+		<font size="3">
+    <p>Our goal is to help find homes for all dogs that are loving, caring, and friendly.</p>
+
+	</html>
